@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design Course",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/Web-Design-1024x536.png",
+        "description": "Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips.",
+        "price": "80"
+    },
+    {
+        "id": 2,
+        "name": "The Complete AutoDesk AutoCad",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/AutoCad-1024x536.png",
+        "description": "AutoCAD Designers use computer software to create technical drawings based on the work of architects and engineers.",
+        "price": "40"
+    },
+    {
+        "id": 3,
+        "name": "IELTS Preparation Master Class",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/IELTS-1024x536.png",
+        "description": "IELTS stands for International English Language Testing System. It is a test assessing a candidate’s ...",
+        "price": "55"
+    },
+    {
+        "id": 4,
+        "name": "Complete Java Masterclass",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/Java-1-1024x536.png",
+        "description": "Step by Step Become a Complete Java Programmer! Obtain valuable Core Java Skills And Java Certification",
+        "price": "89"
+    },
+    {
+        "id": 5,
+        "name": "Complete Python Course",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/03/Python.png",
+        "description": "Python developers write and redesign programming scripts, application interfaces, and websites.",
+        "price": "75"
+    },
+    {
+        "id": 6,
+        "name": "Excel Advance Live Course",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/Excel-1024x536.jpg",
+        "description": "Excel definition: a software program created by Microsoft that uses spreadsheets to organize numbers and data with formulas and functions.",
+        "price": "Free"
+    },
+    {
+        "id": 7,
+        "name": "Laravel Course",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/Laravel-1024x536.png",
+        "description": "Laravel is an open-source PHP framework, which is robust and easy to understand. It follows a model-view-controller design pattern.",
+        "price": "95"
+    },
+    {
+        "id": 8,
+        "name": "Freelancing Masterclass",
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/12/Freelancing-1.png",
+        "description": "Essentially, a freelance job is one where a person works for themselves, rather than for a company.",
+        "price": "Free"
+    }
+]

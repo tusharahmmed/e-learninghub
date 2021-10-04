@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# E-Learning Education Based Traing Platform with React
+## Live Demo:
+### [Click Here](https://e-learninghub.netlify.app/)
+
+<br>
+<br>
+
+## Features:
+
+-  React, React Router, React Tailwind
+-  HTML, CSS, Javascript, JSX
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

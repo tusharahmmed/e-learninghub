@@ -1,0 +1,10 @@
+.course-title h1{
+    font-weight: 700;
+}
+.btn-more-wrap {
+    text-align: center;
+}
+.btn-more-wrap button{
+    padding: 10px 20px;
+    background-color: rgb(75 85 99);
+}

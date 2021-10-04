@@ -1,0 +1,15 @@
+.title-green{
+    color: rgb(0 128 0 / 63%);
+}
+.doted{
+    height: 14px;
+    background-color: #008080d6;
+    width: 14px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+.hero-btn{
+    background: #0476fb;
+    font-weight: 500;
+}
